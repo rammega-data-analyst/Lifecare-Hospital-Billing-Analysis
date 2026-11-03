@@ -51,3 +51,13 @@ This Excel-based data analytics project focuses on analyzing hospital patient bi
 
 ## Conclusion
 This project demonstrates the use of Microsoft Excel for hospital billing analysis, data cleaning, KPI reporting, and dashboard development.
+## Project Deliverables
+
+- Cleaned hospital billing dataset
+- Excel-based interactive dashboard
+- KPI performance report
+- Hospital billing insights and findings
+
+## Key Insights
+
+The analysis covers patient distribution, treatment expenses, insurance claims, payment status, and outstanding balances to support better hospital billing decisions.
