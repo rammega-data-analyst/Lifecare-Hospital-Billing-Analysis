@@ -29,8 +29,11 @@ This Excel-based data analytics project focuses on analyzing hospital patient bi
 | KPI | Result |
 |---|---:|
 | Total Patients | 500 |
-| Total Treatment Cost | ₹73,61,649.33 |
-| Missing Cells Identified | 12 |
+| Total Treatment Cost | ₹73,63,649.93 |
+| Total Insurance Claim | ₹39,53,985.17 |
+| Total Patient Paid | ₹26,51,706.87 |
+| Total Net Bill Amount | ₹34,07,664.16 |
+| Outstanding Balance | ₹7,55,957.29 |
 
 ## Analysis Areas
 - Patient Analysis
