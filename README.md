@@ -23,7 +23,12 @@ This Excel-based data analytics project focuses on analyzing hospital patient bi
 - Reviewed data quality.
 - Cleaned and prepared the dataset for analysis.
 - Final dataset contains 500 patient records.
-
+## Analysis Areas
+- Patient Analysis
+- Treatment Cost Analysis
+- Billing Analysis
+- Hospital Performance Analysis
+- Dashboard Reporting
 ## Key Performance Indicators (KPIs)
 
 | KPI | Result |
@@ -35,12 +40,9 @@ This Excel-based data analytics project focuses on analyzing hospital patient bi
 | Total Net Bill Amount | ₹34,07,664.16 |
 | Outstanding Balance | ₹7,55,957.29 |
 
-## Analysis Areas
-- Patient Analysis
-- Treatment Cost Analysis
-- Billing Analysis
-- Hospital Performance Analysis
-- Dashboard Reporting
+## Key Insights
+
+The analysis covers patient distribution, treatment expenses, insurance claims, payment status, and outstanding balances to support better hospital billing decisions.
 
 ## Project Deliverables
 - Cleaned hospital billing dataset
@@ -54,13 +56,4 @@ This Excel-based data analytics project focuses on analyzing hospital patient bi
 
 ## Conclusion
 This project demonstrates the use of Microsoft Excel for hospital billing analysis, data cleaning, KPI reporting, and dashboard development.
-## Project Deliverables
 
-- Cleaned hospital billing dataset
-- Excel-based interactive dashboard
-- KPI performance report
-- Hospital billing insights and findings
-
-## Key Insights
-
-The analysis covers patient distribution, treatment expenses, insurance claims, payment status, and outstanding balances to support better hospital billing decisions.
