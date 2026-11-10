@@ -61,5 +61,5 @@ The analysis covers patient distribution, treatment expenses, insurance claims, 
 ![Hospital Billing Dashboard](Dashboard%20Screenshot%20New.png)
 
 ## Conclusion
-This project demonstrates the use of Microsoft Excel for hospital billing analysis, data cleaning, KPI reporting, and dashboard development.
 
+This project provides valuable insights into hospital billing operations by analyzing patient records, treatment costs, and billing data. The Excel dashboard helps identify key trends, monitor financial performance, and support better data-driven decision-making.
