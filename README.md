@@ -9,27 +9,26 @@ This Excel-based data analytics project focuses on analyzing hospital patient bi
 - Identify billing trends and patterns.
 - Track key hospital performance indicators.
 - Present insights through an interactive Excel dashboard.
-## Project Files
-
-- Hospital Billing Dataset
-- Cleaned Hospital Billing Dataset
-- Interactive Excel Dashboard
-- Dashboard Screenshot
-- Visual Reports
-- Business Insights and Findings
-## Tools Used
-- Microsoft Excel
-- Data Cleaning
-- Excel Formulas
-- Pivot Tables
-- Charts & Data Visualization
-- KPI Reporting
 
 ## Data Cleaning
 - Identified missing values.
 - Reviewed data quality.
 - Cleaned and prepared the dataset for analysis.
 - Final dataset contains 500 patient records.
+## Project Files
+
+
+- Cleaned Hospital Billing Dataset
+
+## Tools Used
+- Microsoft Excel
+## Excel Techniques Used
+
+- Excel Formulas
+- Pivot Tables
+- Charts & Data Visualization
+
+
 ## Analysis Areas
 - Patient Analysis
 - Treatment Cost Analysis
